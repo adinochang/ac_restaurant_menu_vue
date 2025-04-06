@@ -1,8 +1,9 @@
 <script setup lang="ts">
-import MenuData from '../data/menu.json'
+import { MenuItem } from '../types/MenuItem'
+import menuData from '../data/menu.json'
 import { ref, computed } from 'vue'
 
-const items = MenuData
+const items: MenuItem[] = menuData
 
 const searchText = ref('')
 
