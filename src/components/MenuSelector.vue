@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import MenuChoices from './MenuChoices.vue'
+import OrderForm from './OrderForm.vue'
 </script>
 
 <template>
@@ -7,6 +8,8 @@ import MenuChoices from './MenuChoices.vue'
     <h1>Today's Delicious Menu</h1>
 
     <MenuChoices />
+
+    <OrderForm />
   </div>
 </template>
 
