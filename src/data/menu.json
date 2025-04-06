@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Margherita Pizza",
+        "price": 28.90,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Pepperoni Pizza",
+        "price": 32.50,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Quattro Formaggi Pizza",
+        "price": 35.00,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Carbonara Pasta",
+        "price": 29.90,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Bolognese Pasta",
+        "price": 27.90,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Lasagna",
+        "price": 36.90,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Mushroom Risotto",
+        "price": 34.50,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Seafood Risotto",
+        "price": 38.90,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Bruschetta",
+        "price": 18.90,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Caprese Salad",
+        "price": 22.50,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Garlic Bread",
+        "price": 12.90,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Tiramisu",
+        "price": 24.50,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Panna Cotta",
+        "price": 22.90,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Gnocchi with Pesto",
+        "price": 31.90,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Arancini",
+        "price": 20.90,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Osso Buco",
+        "price": 48.90,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Focaccia",
+        "price": 16.90,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Eggplant Parmigiana",
+        "price": 29.50,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Stuffed Cannelloni",
+        "price": 33.90,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Zuppa di Pesce",
+        "price": 39.90,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Espresso",
+        "price": 9.90,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Cappuccino",
+        "price": 12.90,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Latte Macchiato",
+        "price": 14.90,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Italian Hot Chocolate",
+        "price": 15.90,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Limoncello",
+        "price": 18.50,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Negroni",
+        "price": 26.90,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Aperol Spritz",
+        "price": 25.90,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Chianti Red Wine",
+        "price": 45.00,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "Prosecco",
+        "price": 42.90,
+        "image": "https://placehold.co/400x300"
+    },
+    {
+        "name": "San Pellegrino Sparkling Water",
+        "price": 10.90,
+        "image": "https://placehold.co/400x300"
+    }
+]
