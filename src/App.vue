@@ -1,7 +1,11 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import Menu from './components/MenuSelector.vue'
+</script>
 
 <template>
-  <h1>Today's Delicious Menu</h1>
+  <main>
+    <Menu />
+  </main>
 </template>
 
 <style scoped></style>
